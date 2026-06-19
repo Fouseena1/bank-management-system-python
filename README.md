@@ -1,7 +1,9 @@
-<<<<<<< HEAD
-# Bank Management System
+Bank Management System
 
-Features:
+A simple Bank Management System built using Python.
+
+Features
+
 - Create Account
 - Deposit Money
 - Withdraw Money
@@ -10,12 +12,10 @@ Features:
 - Search Account
 - Delete Account
 
-Technologies Used:
-- Python
-- OOP
-- File Handling
+Technologies Used
 
-=======
-# bank-management-system-python
-Bank Management System using Python and File Handling
->>>>>>> eecf95fa8100f119cf63050805812a51c1ea6719
+- Python
+- Object-Oriented Programming (OOP)
+- File Handling
+- Exception Handling
+- CRUD Operations
